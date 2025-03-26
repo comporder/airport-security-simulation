@@ -14,9 +14,4 @@ This project simulates the security check process at an airport using discrete e
 - **Average queue length:** ~960
 - **Maximum queue length:** ~1913
 
----
 
-### 👨‍💻 Developed by
-Emir Ozalp  
-Student ID: 2021221031  
-Course: Discrete Modeling and Simulation (BLM21464E)
